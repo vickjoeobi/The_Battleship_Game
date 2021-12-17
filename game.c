@@ -143,7 +143,7 @@ void placeShip(char playerShipsLocations[BOX][BOX], char Board[BOX][BOX], int sh
 }
 
 /**
- * @brief This function is the same as above, but it is used to place the ships for single game players. 
+ * @brief This function is the same as above, but it is used to place the ships for single game players.. 
  * 
  * @param playerShipsLocations 
  * @param Board 
